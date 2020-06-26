@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+h2{
+    height: 32px;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 5px groove blue;
+}
+ 
+td{
+    border-top: 1px dashed blue;
+}
+ 
+th{
+    border: 2px solid red;
+}
